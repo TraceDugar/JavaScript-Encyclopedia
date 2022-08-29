@@ -6,7 +6,7 @@
 
 Growth Mindset is a mindset which will keep individuals on a path of continous improvement.
 
-3 Reminders to keep myself in the growth mindset.
+3 Reminders to keep _myself_ in the growth mindset.
 
 - Failure is the best teacher
 - Difficulties are temporary and there is always a solution.
