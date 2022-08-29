@@ -8,7 +8,7 @@ Growth Mindset is a mindset which will keep individuals on a path of continous i
 Failure is to be seen as an obstacle that can be overcome and should improve the individual once they get beyond it.
 They are only a speedbump not the "End all, be all"
 
-3 Reminders to keep _myself_ in the growth mindset.
+3 Reminders to keep _myself_  in the growth mindset.
 
 - Failure is the best teacher
 - Difficulties are temporary and there is always a solution.
