@@ -4,7 +4,7 @@
 
 **Hi my name is _Trace_, and I love Music.**
 
-<hr>
+
 
 <h3 style=“display:block;
            margin-left: auto;
