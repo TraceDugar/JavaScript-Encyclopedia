@@ -16,7 +16,7 @@
 ------------ | -------------
 [Class 01]() | -
 [Class 02](https://github.com/TraceDugar/reading-notes/blob/main/102/class2.md) | -
-[Class 03]() | -
+[Class 03](https://github.com/TraceDugar/reading-notes/blob/main/102/class3.md) | -
 [Class 04]() | -
 Class 05 | -
 Class 06 | -
