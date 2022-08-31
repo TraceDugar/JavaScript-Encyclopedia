@@ -15,7 +15,7 @@
   **Code 102**, _Intro to Software Development_ | **Code 201**, _Foundations of Software Development_
 ------------ | -------------
 [Class 01]() | -
-[Class 02]() | -
+[Class 02](https://github.com/TraceDugar/reading-notes/blob/main/102/class2.md) | -
 [Class 03]() | -
 [Class 04]() | -
 Class 05 | -
