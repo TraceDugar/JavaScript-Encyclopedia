@@ -1,0 +1,31 @@
+Class 4 notes HTML
+
+<!-- Notes in code not visible in web page -->
+
+<p> paragraph </p>
+
+<p class="editor note"> attribute </p> **Always goes in opening bracket**
+
+<p> This is <strong> BOLD </strong>. </p>
+
+<img src="image source.png" alt="test image">
+
+<!DOCTYPE html> - Doctype
+
+<html></html> - Language attribute
+
+<head></head> - contains keywords for search results
+
+<title></title> - sets title in browser tab
+
+<body></body>
+
+<h1>heading</h1>
+
+<ul>unordered list</ul>
+
+<ol>ordered list</ol>
+
+<a href="www.link.com"> This is a link</a>
+
+<nav></nav>
