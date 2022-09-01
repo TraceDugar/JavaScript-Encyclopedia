@@ -19,7 +19,7 @@
 [Class 03](https://github.com/TraceDugar/reading-notes/blob/main/102/class3.md) | -
 [Class 04](https://github.com/TraceDugar/reading-notes/blob/main/102/class4.txt) | -
 [Class 05](https://github.com/TraceDugar/reading-notes/blob/main/102/class5.md) | -
-Class 06 | -
+[Class 06](https://github.com/TraceDugar/reading-notes/blob/main/102/class6.md) | -
 Class 07 | -
 Class 08 | -
 
