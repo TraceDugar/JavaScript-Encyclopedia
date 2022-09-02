@@ -21,7 +21,7 @@
 [Class 05](https://github.com/TraceDugar/reading-notes/blob/main/102/class5.md) | -
 [Class 06](https://github.com/TraceDugar/reading-notes/blob/main/102/class6.md) | -
 [Class 07](https://github.com/TraceDugar/reading-notes/blob/main/102/class7.md) | -
-Class 08 | -
+[Class 08](https://github.com/TraceDugar/reading-notes/blob/main/102/class8.md) | -
 
 
 
