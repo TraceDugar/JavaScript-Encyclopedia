@@ -12,7 +12,7 @@
            text-align: center;“>
   Reading Notes</h3> 
   
-  **Code 102**, _Intro to Software Development_ | **Code 201**, _Foundations of Software Development_
+  **Code 102**, _Intro to Software Development_ | **Other Classes**, _201,301,and 401 notes here_
 ------------ | -------------
 [Class 01](https://tracedugar.github.io/reading-notes/) | [201](https://github.com/TraceDugar/reading-notes/blob/main/201/Toc.md)
 [Class 02](https://github.com/TraceDugar/reading-notes/blob/main/102/class2.md) | -
