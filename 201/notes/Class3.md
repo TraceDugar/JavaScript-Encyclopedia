@@ -66,12 +66,12 @@ List five shorthand operators for assignment in javascript and describe what the
 
 Read the code below and evaluate the last expression and explain what the result would be and why.
 
-**
+**The only 2 outcomes I can forsee are 10 because it ignores the words and counts them as a zero, or there is an error due to it being arithmetic and not boolean.**
 
 Describe a real world example of when a conditional statement should be used in a JavaScript program.
 
-**
+**Conditional statements are used to decide the flow of execution based on different conditions. a real world example would be Age validation on website.**
 
 Give an example of when a Loop is useful in JavaScript.
 
-**
+**they repeat an action some number of times and the various loop mechanisms offer different ways to determine the start and end points of the loop.**
