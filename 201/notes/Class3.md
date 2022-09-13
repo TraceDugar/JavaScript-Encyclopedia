@@ -58,7 +58,11 @@ in the same way that you accessed the letters in a string.**
 
 List five shorthand operators for assignment in javascript and describe what they do.
 
-**
+-   x += f() addition
+- 	x *= f() multiplication
+- 	x <<= f() Left Shift
+- 	x >>>= f() Copy right shift assignment
+- 	x &&= f() Logical and Assignment
 
 Read the code below and evaluate the last expression and explain what the result would be and why.
 
