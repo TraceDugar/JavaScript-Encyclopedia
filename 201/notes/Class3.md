@@ -47,11 +47,14 @@ between this box and other elements; size it using margin and related properties
 
 What data types can you store inside of an Array?
 
-**
+**Strings and Numbers**
 
 Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?
 
-**
+**Yes, it is an Array that keeps track of people, Items in an array are numbered, starting from zero. 
+This number is called the item's index. So the first item has index 0, the second has index 1, and so on. 
+You can access individual items in the array using bracket notation and supplying the item's index, 
+in the same way that you accessed the letters in a string.**
 
 List five shorthand operators for assignment in javascript and describe what they do.
 
