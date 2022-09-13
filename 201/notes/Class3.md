@@ -26,7 +26,10 @@ Describe two ways you can change the numbers on list items provided by an ordere
 Describe the CSS properties of margin and padding as characters in a story.
 What is their role in a story titled: “The Box Model”?
 
-**
+**There once was a young element named Content, Content had 3 friends, Padding, Border, and Margin.  Element and Padding were the closest while border always remain neutral in arguments.  Then there was Margin.  Margin was jealous beause she was always on the ouside and felt like she could never get close to content because padding was always in the way.  She was cool with border though.  He was a bit of an outsider himself but he never got jealous of padding. Content was content with being the center of attention but was always with Padding there is no where that Content would go that Padding wouldn't.  Margin vehemetly hated Padding for this reason. Border would never allow Margin and Padding to fight, he was always there keeping the peace.  To this day if you look at the box model you will see that they have never changed.**
+
+*Tldr, Margin is the spacing outside of the border,
+Padding is the space in between the border and content.**
 
 List and describe the four parts of an HTML elements box as referred to by the box model.
 
