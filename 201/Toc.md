@@ -7,7 +7,7 @@
   **Code 201**, _Foundations of Software Development_ | **Code 201**, _Foundations of Software Development_
 ------------ | -------------
 [Class 01](https://github.com/TraceDugar/reading-notes/blob/main/201/notes/Class1.md) | [Class 09](https://github.com/TraceDugar/reading-notes/blob/main/201/notes/class9.md)
-[Class 02](https://github.com/TraceDugar/reading-notes/blob/main/201/notes/Class2.txt) | []()
+[Class 02](https://github.com/TraceDugar/reading-notes/blob/main/201/notes/Class2.txt) | [Class 10](https://github.com/TraceDugar/reading-notes/blob/main/201/notes/class10.md)
 [Class 03](https://github.com/TraceDugar/reading-notes/blob/main/201/notes/Class3.md) | []()
 [Class 04](https://github.com/TraceDugar/reading-notes/blob/main/201/notes/Class4.md) | []()
 [Class 05](https://github.com/TraceDugar/reading-notes/blob/main/201/notes/class5.md) | []()
