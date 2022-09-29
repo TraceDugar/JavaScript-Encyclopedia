@@ -11,7 +11,7 @@
 [Class 03](https://github.com/TraceDugar/reading-notes/blob/main/201/notes/Class3.md) | [Class 12](https://github.com/TraceDugar/reading-notes/blob/main/201/notes/class12.md)
 [Class 04](https://github.com/TraceDugar/reading-notes/blob/main/201/notes/Class4.md) | [Class 13](https://github.com/TraceDugar/reading-notes/blob/main/201/notes/class13.md)
 [Class 05](https://github.com/TraceDugar/reading-notes/blob/main/201/notes/class5.md) | [Class 14](https://github.com/TraceDugar/reading-notes/blob/main/201/notes/Class14.md)
-[Class 06](https://github.com/TraceDugar/reading-notes/blob/main/201/notes/class6.md) | [Psychological Safety]()
+[Class 06](https://github.com/TraceDugar/reading-notes/blob/main/201/notes/class6.md) | [Psychological Safety](https://github.com/TraceDugar/reading-notes/blob/main/201/notes/PsySafety.md)
 [Class 07](https://github.com/TraceDugar/reading-notes/blob/main/201/notes/class7.md) | []()
 [Class 08](https://github.com/TraceDugar/reading-notes/blob/main/201/notes/class8.md) | []()
  [Class 09](https://github.com/TraceDugar/reading-notes/blob/main/201/notes/class9.md) |[]()
