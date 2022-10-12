@@ -15,7 +15,7 @@
   **Code 102**, _Intro to Software Development_ | **Other Classes**, _201,301,and 401 notes here_
 ------------ | -------------
 [Class 01](https://tracedugar.github.io/reading-notes/) | [201](https://github.com/TraceDugar/reading-notes/blob/main/201/Toc.md)
-[Class 02](https://github.com/TraceDugar/reading-notes/blob/main/102/class2.md) | -
+[Class 02](https://github.com/TraceDugar/reading-notes/blob/main/102/class2.md) | [301](https://github.com/TraceDugar/reading-notes/blob/main/301/toc.md)
 [Class 03](https://github.com/TraceDugar/reading-notes/blob/main/102/class3.md) | -
 [Class 04](https://github.com/TraceDugar/reading-notes/blob/main/102/class4.txt) | -
 [Class 05](https://github.com/TraceDugar/reading-notes/blob/main/102/class5.md) | -
