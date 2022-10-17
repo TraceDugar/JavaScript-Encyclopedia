@@ -6,7 +6,7 @@
   
   **Code 301**, _Intermediate Software Development_ |  **Code 301**, _Intermediate Software Development_
 ------------ | -------------
-[Class 01]() | []()
+[Class 01](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class1.md) | []()
 []() | []() 
 []() | []()
 []() | []()
