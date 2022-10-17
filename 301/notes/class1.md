@@ -43,15 +43,15 @@ Independent − Independency and flexible connectivity of components. Independen
 
 **What is Props and How to Use it in React**
 
- 1. **What is “props” short for?**
+ **What is “props” short for?**
      *Properties*
      
- 2. **Using Props in React**
+ **Using Props in React**
 1. Define an attribute and its value(data)
 2. Pass it to child component(s) by using Props
 3. Render the Props Data
 
-3.**What is the flow of props?**
+ **What is the flow of props?**
 *The flow is from parents to each sequential child.*
 
 
