@@ -9,7 +9,7 @@
 [Class 01](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class1.md) | []()
 [Class 02](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/Class2.md) | []() 
 [Class 03](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class3.md) | []()
-[]() | []()
+[Class 04](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class4.md) | []()
 []() | []()
 []() | []()
 []() | []()
