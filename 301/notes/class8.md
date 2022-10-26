@@ -24,7 +24,6 @@ https://adventure-works.com/orders/1*
 <br>
 
 6. **Give an example of a good URI.**
-<br>
 *https://adventure-works.com/orders // Good*,
 <br>
 https://adventure-works.com/create-order // Avoid
