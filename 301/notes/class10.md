@@ -1,4 +1,4 @@
-##Class 09 Reading Notes
+## Class 10 Reading Notes
 
 **Understanding the JavaScript Call Stack**
 
