@@ -28,42 +28,42 @@
 
 <br>
  
-6. What is the ‘Forbidden’ status code?**
+6. **What is the ‘Forbidden’ status code?**
 *403 Forbidden - The client has authorized or doesn’t need to authorize itself, but still has no permissions to access the resource.*
 <br>
  
  //----source: https://www.moesif.com/blog/technical/api-design/Which-HTTP-Status-Code-To-Use-For-Every-CRUD-App/
   
-1.** Why do we need to pull our MongoDB database string out of our server and put it into our .env?**
-*
+1. **Why do we need to pull our MongoDB database string out of our server and put it into our .env?**
+*We don't want to send it to github and give someone else access to our database.*
 <br>
  
-What is middleware?**
-*
+2.**What is middleware?**
+*Software that runs when a sever gets a request but before it gets to your routes*
 <br>
  
-What does app.use(express.json()) do?**
-*
+3. **What does app.use(express.json()) do?**
+*it allows you accept JSON as the body of your request.*
 <br>
  
-What does the /:id mean in a route?**
-*
+4. **What does the /:id mean in a route?**
+*The colon designates this as parameter so we can access the id of a request.*
 <br>
  
-What is the difference between PUT and PATCH?**
-*
+5. **What is the difference between PUT and PATCH?**
+*PUT updates the whole db entry but PATCH updates just a single variable.*
 <br>
  
-How do you make a default value in a schema?**
-*
+6. **How do you make a default value in a schema?**
+*Default*
 <br>
  
-What does a 500 error status code mean?**
-*
+7. **What does a 500 error status code mean?**
+*Something went wrong*
 <br>
  
-What is the difference between a status 200 and a status 201?**
-*
+8. **What is the difference between a status 200 and a status 201?**
+*200 is good, and 201 means ther is a new resource*
 <br>
  
  //----source: https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw
