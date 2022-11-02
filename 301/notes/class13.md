@@ -16,11 +16,17 @@
 **Speed Coding: Building a CRUD API **
 
 1.**What’s the relationship between REST and CRUD?**
-*
+*CRUD uses REST to communicate to tie everythhing together. They are very close to being the same thing.*
 <br>
 
 2.**If you had to describe the process of creating a RESTful API in 5 steps, what would they be?**
-*
+<ol>
+  <li>Set up the routes.</li>
+  <li>Prep for testing (add retrievable data)</li>
+  <li>Connect Database</li>
+  <li>Set up functions</li>
+  <li>Test those functions</li>
+</ol>
 <br>
 
 
