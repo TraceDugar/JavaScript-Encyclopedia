@@ -13,7 +13,7 @@
 
 //----source: https://medium.com/geekculture/crud-operations-explained-2a44096e9c88
 
-**Speed Coding: Building a CRUD API **
+**Speed Coding: Building a CRUD API**
 
 1. **What’s the relationship between REST and CRUD?**
 *CRUD uses REST to communicate to tie everythhing together. They are very close to being the same thing.*
