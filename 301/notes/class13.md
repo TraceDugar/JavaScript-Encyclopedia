@@ -24,8 +24,8 @@
   <li>Set up the routes.</li>
   <li>Prep for testing (add retrievable data)</li>
   <li>Connect Database</li>
-  <li>Set up functions</li>
-  <li>Test those functions</li>
+  <li>Test Databse Connection</li>
+  <li>Set up Functions, then Test those functions</li>
 </ol>
 <br>
 
