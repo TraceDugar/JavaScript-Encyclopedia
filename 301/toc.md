@@ -10,7 +10,7 @@
 [Class 02](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/Class2.md) | [Class 11](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class11.md) 
 [Class 03](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class3.md) | [Class 12](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class12.md)
 [Class 04](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class4.md) | []()
-[Class 05](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/Class5.md) | []()
+[Class 05](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/Class5.md) | [Class 14](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/Class14.md)
 [Class 06](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class6.md) | []()
 [Class 07](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class7.md) | []()
 [Class 08](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class8.md) | []()
