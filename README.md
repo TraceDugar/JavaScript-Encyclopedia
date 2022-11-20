@@ -16,7 +16,7 @@
 ------------ | -------------
 [Class 01](https://tracedugar.github.io/reading-notes/) | [201](https://github.com/TraceDugar/reading-notes/blob/main/201/Toc.md)
 [Class 02](https://github.com/TraceDugar/reading-notes/blob/main/102/class2.md) | [301](https://github.com/TraceDugar/reading-notes/blob/main/301/toc.md)
-[Class 03](https://github.com/TraceDugar/reading-notes/blob/main/102/class3.md) | -
+[Class 03](https://github.com/TraceDugar/reading-notes/blob/main/102/class3.md) | [401](https://github.com/TraceDugar/reading-notes/blob/main/401/toc.md)
 [Class 04](https://github.com/TraceDugar/reading-notes/blob/main/102/class4.txt) | -
 [Class 05](https://github.com/TraceDugar/reading-notes/blob/main/102/class5.md) | -
 [Class 06](https://github.com/TraceDugar/reading-notes/blob/main/102/class6.md) | -
