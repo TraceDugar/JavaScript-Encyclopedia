@@ -25,10 +25,13 @@ factors in which the modern definition of sucess is a bit brutal that we place o
 This Quiz indicates that I have grown a few points in all of my 4 sections,  but more importantly I am no longer under 18 in the two previous sections.  I am glad 
 that I have had these tools introduced to me in order to assess my emotional intellgence and how it plays into my life. 
 
-20 - Self Awareness - Improvement from below 18
-22 - Self Management
-22 - Social Awareness
-20 - Relationship Management - Improvement from below 18
+<ul>
+<li>20 - Self Awareness - Improvement from below 18 </li>
+<li>22 - Self Management </li>
+<li>22 - Social Awareness </li>
+<li>20 - Relationship Management - Improvement from below 18 </li>
+</ul>  
+
 
 **Bias Assesment**
 
