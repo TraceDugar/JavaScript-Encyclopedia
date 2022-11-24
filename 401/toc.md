@@ -27,4 +27,4 @@
 
 
 [Gowth Mindset](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/Growth_Mindset.md) <br>
-[Engineering Readings]()
+[Engineering Readings](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/Engineeringreadings.md)
