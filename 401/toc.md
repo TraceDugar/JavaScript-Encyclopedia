@@ -28,4 +28,4 @@
 
 [Gowth Mindset](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/Growth_Mindset.md) <br>
 [Engineering Readings](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/Engineeringreadings.md) <br>
-[Data Structures & Algorithms]() 
+[Data Structures & Algorithms](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/DataStructures_Algorithms.md) 
