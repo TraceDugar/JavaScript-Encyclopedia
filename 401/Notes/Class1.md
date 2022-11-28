@@ -17,6 +17,7 @@
 1.**Looking ahead at this module’s course schedule, What do you look forward to learning?**
 *The material, I am unsure being new to this world.*
 <br>
+
 2.**What are your learning goals after reading and reviewing the class README?**
 *To hopefully understand what is going on after going through class, The reading really didnt answer those questions.......* 
  *Like it even stated one question the author seemed to have get distracted without answering the question.*
