@@ -5,7 +5,7 @@
 <br>
 2. **What does it mean that Node is a JavaScript runtime?**
 *It means that Node is a Javascript environment for installing webservices code and it's dependencies, and will run the service.*
-<br>
+
 //----source:Two googles seraches: "What does it mean that Node is a JavaScript runtime?", "What is a runtime environment"
 
 3. **What is Node used for?**
