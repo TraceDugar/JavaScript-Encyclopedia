@@ -3,6 +3,7 @@
 1. **How would you describe Node to a non-technical friend?**
 *Node.js is what makes software get data from other locations on the internet, for instance, the weather app on your phone get its data from another comapnies physical weather station.*
 <br>
+
 2. **What does it mean that Node is a JavaScript runtime?**
 *It means that Node is a Javascript environment for installing webservices code and it's dependencies, and will run the service.*
 
