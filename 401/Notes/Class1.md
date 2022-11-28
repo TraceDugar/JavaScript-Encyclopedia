@@ -7,7 +7,7 @@
 *It means that Node is a Javascript environment for installing webservices code and it's dependencies, and will run the service.*
 <br>
 //----source:Two googles seraches: "What does it mean that Node is a JavaScript runtime?", "What is a runtime environment"
-<br>
+
 3. **What is Node used for?**
 *installing webservices code and it's dependencies, and will run the service*
 
