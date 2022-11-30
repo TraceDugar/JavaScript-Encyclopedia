@@ -7,7 +7,7 @@
  **Code 401** - *Advanced Software Development* |  **Code 401** - *Advanced Software Development*
 ------------ | -------------
 [Class 01](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/Class1.md) | []()
-[Class 02]() | []() 
+[Class 02](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/Class2.md) | []() 
 [Class 03]() | []()
 []() | []()
 []() | []()
