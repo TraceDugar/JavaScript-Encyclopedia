@@ -8,7 +8,7 @@
 ------------ | -------------
 [Class 01](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/Class1.md) | []()
 [Class 02]() | []() 
-[]() | []()
+[Class 03]() | []()
 []() | []()
 []() | []()
 []() | []()
