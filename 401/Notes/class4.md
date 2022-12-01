@@ -31,13 +31,13 @@ The Primary Keys(rows).  Remember the primary keys uniquely identify each row in
 
 (https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
 1.How do we treat keywords and parameters differently in SQL syntax?
-
+They can be combined in order to make commands, and it is quite powerful!
 <br>
 
 2.Define normalization within the context of schemas and data.
-
+"Normalization entails organizing the columns (attributes) and tables (relations) of a database to ensure that their dependencies are properly enforced by database integrity constraints.” source--(https://towardsdatascience.com/a-complete-guide-to-database-normalization-in-sql-6b16544deb0)
 <br>
 
 3.Explain the difference between one-to-one, one-to-many, and many-to-many relationships to a non-technical recruiter.
-
+One to one means that a user and data are pairs and has a contact id, one to many means one user can be attached to lots of data (more than one to one) has a creator id, many to many means lots of data spread between multiples tables, user ids and role ids both get assigned.
 <br>
