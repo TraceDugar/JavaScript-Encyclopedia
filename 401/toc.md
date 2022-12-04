@@ -11,7 +11,7 @@
 [Class 03](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class3.md) | []()
 [Class 04](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class4.md) | []()
 [Class 06](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class6.md) | []()
-[Class 07]() | []()
+[Class 07](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class07.md) | []()
 [Class 08]() | []()
 [Class 09]() | []()
 []() | []()
