@@ -14,7 +14,7 @@
 [Class 07](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class07.md) | []()
 [Class 08]() | []()
 [Class 09]() | []()
-[]() | []()
+[Class 11](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class11.md) | []()
 []() | []()
 []() | []() 
 []() | []()
