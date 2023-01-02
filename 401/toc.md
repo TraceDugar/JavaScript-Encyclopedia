@@ -20,7 +20,7 @@
 [Class 17](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class17.md) | []()
 [Class 18](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class18.md) | []()
 [Class 19](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class19.md) | []()
-[]() | []()
+[Class 26](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class26.md) | []()
 []() | []()
 []() | []()
 []() | []()
