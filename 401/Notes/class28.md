@@ -1,6 +1,6 @@
 # Class 28 Reading Notes
 
-()
+(https://reactjs.org/docs/hooks-effect.html)
 
 1. What purpose does useEffect serve in a function component compared to its counterpart(s) in class components?
 In React class components, the render method itself shouldn’t cause side effects. It would be too early — we typically want to perform our effects after React has updated the DOM.
