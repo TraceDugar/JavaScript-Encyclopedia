@@ -14,7 +14,7 @@
 [Class 07](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class07.md) | [Class 32](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class32.md)
 [Class 08](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class08.md) | [Class 33](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class33.md)
 [Class 11](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class11.md) | [Class 34](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class34.md)
-[Class 12](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class12.md) | []()
+[Class 12](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class12.md) | [Class 36](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class36.md)
 [Class 13](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class13.md) | []()
 [Class 16](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class16.md) | []() 
 [Class 17](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class17.md) | []()
