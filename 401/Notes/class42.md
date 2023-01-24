@@ -1,10 +1,9 @@
 # Ethics in Tech
 
 ## Code of Ethics
-<ul>
-  <li> [Code of Ethics](https://www.acm.org/code-of-ethics) </li>
-  <li> [Software Engineering Code of Ethics](https://ethics.acm.org/code-of-ethics/software-engineering-code/) </li>
-</ul>  
+
+[Code of Ethics](https://www.acm.org/code-of-ethics) <br>
+[Software Engineering Code of Ethics](https://ethics.acm.org/code-of-ethics/software-engineering-code/)  <br>
 
 <br>
 
