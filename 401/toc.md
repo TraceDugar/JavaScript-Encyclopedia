@@ -27,4 +27,4 @@
 [Engineering Readings](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/Engineeringreadings.md) <br>
 [Data Structures & Algorithms](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/DataStructures_Algorithms.md) <br>
 [SQL EXERCISES](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/SQL.md)
-[Career Exercise 8]()
+[Ethics in Tech](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class42.md)
