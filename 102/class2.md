@@ -1,30 +1,18 @@
-# Class 2 Notes
+# The Coder's Computer
 
-The Terminal is not meant to replace the GUI,
-but meant to be another tool in a developers tool box.
+### Main Reading
 
-Terminals usually appear as:
-prompt: (Command) ls -l/home/trace
-output-of-command here is the list
-prompt: (Command)
+[Choosing a Text Editor](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
 
-**Navigation**
-PWD - is the current location.
-LS - is a short list.
-CD - to navigate to a new location.
 
-Tab completeion is a fast / accurate way to complete names of locations.
+### More Readings
 
-Relative Path - path relative to current location.
-Absolute Path - raltive to the root of file system.
+[The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php) <br>
+[Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php) <br>
+[About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php) <br>
 
-Text Editor
-Recommended features:
-- Code completion
-- Syntax Highlighting
-- Variety of themes
-- Have a variety of extensions
 
-IDE - Integrated Development Environment
+#### Source Home Page
 
-Ex. Visual Studio Code, Brackets, Sublime
+[Ryan's Tutorials](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
+
