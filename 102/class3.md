@@ -1,4 +1,8 @@
-## Notes Class 3
+# Revisions and the Cloud
+
+## Reading 
+
+[Git Intro](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)<br>
 
 **git stash** - saves changes w/o committing it removes changes and hides them.
 
