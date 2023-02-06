@@ -1,6 +1,6 @@
 # Javascript Notes
 
-## This is a collection of notes that I have taken while Learning the MERN Stack from the Code Fellows Bootcamp ##
+## This is a collection of notes that I have taken while learning the MERN Stack from the Code Fellows Bootcamp. ##
 
 <h3 style=“display:block;
            margin-left: auto;
