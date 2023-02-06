@@ -14,5 +14,5 @@
 
 #### Source Home Page
 
-[Ryan's Tutorials](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
+[Ryan's Tutorials](https://ryanstutorials.net/)
 
