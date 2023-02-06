@@ -6,7 +6,7 @@
            margin-left: auto;
            margin-right:auto;
            text-align: center;“>
-  Reading Notes</h3> 
+  Table of Contents</h3> 
   
   _Intro to Software Development_ | **More Notes**, _Next Levels_
 ------------ | -------------
