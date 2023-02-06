@@ -10,7 +10,7 @@
   
   _Intro to Software Development_ | **More Notes**, _Next Levels_
 ------------ | -------------
-[Learning Markdown](https://tracedugar.github.io/reading-notes/) | [Foundations to Javascript](https://github.com/TraceDugar/reading-notes/blob/main/201/Toc.md)
+[Learning Markdown](https://github.com/TraceDugar/reading-notes/blob/main/102/class1.md) | [Foundations to Javascript](https://github.com/TraceDugar/reading-notes/blob/main/201/Toc.md)
 [The Coder's Computer](https://github.com/TraceDugar/reading-notes/blob/main/102/class2.md) | [Intermediate Javascript](https://github.com/TraceDugar/reading-notes/blob/main/301/toc.md)
 [Revisions and the Cloud](https://github.com/TraceDugar/reading-notes/blob/main/102/class3.md) | [Advanced Javascript](https://github.com/TraceDugar/reading-notes/blob/main/401/toc.md)
 [Structure Web Pages with HTML](https://github.com/TraceDugar/reading-notes/blob/main/102/class4.txt) | -
