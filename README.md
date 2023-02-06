@@ -8,10 +8,10 @@
            text-align: center;“>
   Reading Notes</h3> 
   
-  **Code 102**, _Intro to Software Development_ | **Other Classes**, _201, 301, and 401 notes here_
+  _Intro to Software Development_ | **More Notes**, _Next Levels_
 ------------ | -------------
-[Learmning Markdown](https://tracedugar.github.io/reading-notes/) | [Foundations to Javascript](https://github.com/TraceDugar/reading-notes/blob/main/201/Toc.md)
-[The Coders Computer](https://github.com/TraceDugar/reading-notes/blob/main/102/class2.md) | [Intermediate Javascript](https://github.com/TraceDugar/reading-notes/blob/main/301/toc.md)
+[Learning Markdown](https://tracedugar.github.io/reading-notes/) | [Foundations to Javascript](https://github.com/TraceDugar/reading-notes/blob/main/201/Toc.md)
+[The Coder's Computer](https://github.com/TraceDugar/reading-notes/blob/main/102/class2.md) | [Intermediate Javascript](https://github.com/TraceDugar/reading-notes/blob/main/301/toc.md)
 [Revisions and the Cloud](https://github.com/TraceDugar/reading-notes/blob/main/102/class3.md) | [Advanced Javascript](https://github.com/TraceDugar/reading-notes/blob/main/401/toc.md)
 [Structure Web Pages with HTML](https://github.com/TraceDugar/reading-notes/blob/main/102/class4.txt) | -
 [Design Web Pages with CSS](https://github.com/TraceDugar/reading-notes/blob/main/102/class5.md) | -
