@@ -24,15 +24,15 @@
 
 <h1>heading</h1>
 
-<ul>unordered list</ul> **a list with sequential numbers**
+<ul>unordered list</ul> **a list with bullet points**
 
-<ol>ordered list</ol> **a list with bullet points**
+<ol>ordered list</ol>  **a list with sequential numbers**
 
-<li>List Item</li> **these go within unoredered and oredered lists.**
+<li>List Item</li> **these go within unordered and oredered lists.**
 
 <a href="www.link.com"> This is a link</a>
 
-<nav></nav> **navigation tage for naigating to different pages**
+<nav></nav> **navigation tag for naigating to different pages**
 
 ## Reading Material
 
