@@ -1,6 +1,6 @@
 # HTML Notes
 
-## Quick Reference
+## Quick Reference *view raw to see*
 
 <!-- Notes in code not visible in web page --> **Comment**
 
