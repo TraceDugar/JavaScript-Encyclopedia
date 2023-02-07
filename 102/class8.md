@@ -1,4 +1,4 @@
-# Class 8
+# Operators and Loops
 
 ## Quick Reference
 
