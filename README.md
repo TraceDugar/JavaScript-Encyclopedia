@@ -13,7 +13,7 @@
 [Learning Markdown](https://github.com/TraceDugar/reading-notes/blob/main/102/class1.md) | [Foundations to Javascript](https://github.com/TraceDugar/reading-notes/blob/main/201/Toc.md)
 [The Coder's Computer](https://github.com/TraceDugar/reading-notes/blob/main/102/class2.md) | [Intermediate Javascript](https://github.com/TraceDugar/reading-notes/blob/main/301/toc.md)
 [Revisions and the Cloud / Git Commands](https://github.com/TraceDugar/reading-notes/blob/main/102/class3.md) | [Advanced Javascript](https://github.com/TraceDugar/reading-notes/blob/main/401/toc.md)
-[Structure Web Pages with HTML](https://github.com/TraceDugar/reading-notes/blob/main/102/class4.txt) | -
+[Structure Web Pages with HTML](https://github.com/TraceDugar/reading-notes/blob/main/102/class4.md) | -
 [Design Web Pages with CSS](https://github.com/TraceDugar/reading-notes/blob/main/102/class5.md) | -
 [Dynamic web pages with Javascript](https://github.com/TraceDugar/reading-notes/blob/main/102/class6.md) | -
 [Programming with Javascript](https://github.com/TraceDugar/reading-notes/blob/main/102/class7.md) | -
