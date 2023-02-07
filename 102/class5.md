@@ -1,4 +1,4 @@
-# Css Readings
+# CSS Readings
 
 ## Readings
 
