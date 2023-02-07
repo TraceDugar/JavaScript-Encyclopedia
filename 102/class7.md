@@ -2,7 +2,7 @@
 
 ## Quick Reference Guide
 
-Function functionName ();
+Function functionName (parameter);
 
 Function names contain the same rules as variables
 
