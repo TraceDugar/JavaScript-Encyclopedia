@@ -1,8 +1,6 @@
-<h2 style=“display:block;
-           margin-left: auto;
-           margin-right:auto;
-           text-align: center;“>
-  201 Reading Notes</h2> 
+# Foundations of Software Development
+
+### Table of Contents
   
   **Code 201**, _Foundations of Software Development_ | **Code 201**, _Foundations of Software Development_
 ------------ | -------------
