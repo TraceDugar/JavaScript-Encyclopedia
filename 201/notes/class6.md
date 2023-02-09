@@ -1,4 +1,4 @@
-## Problem Domain, Objects, and the DOM
+# Problem Domain, Objects, and the DOM
 
 ## Javascript
 
