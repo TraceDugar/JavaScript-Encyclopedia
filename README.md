@@ -8,7 +8,7 @@
            text-align: center;“>
   Table of Contents</h3> 
   
-  _Levels_ |  
+  _Levels_ |  -
 ------------ | -------------
 [Intro to Javascript](https://github.com/TraceDugar/reading-notes/blob/main/102/toc.md) | -
 [Foundations of Javascript](https://github.com/TraceDugar/reading-notes/blob/main/201/Toc.md) | -
