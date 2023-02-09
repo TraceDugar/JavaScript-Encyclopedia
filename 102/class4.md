@@ -36,7 +36,12 @@
 
 ## Reading Material
 
+### Wireframing
+
 [Wireframe and Design](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/) <br>
+
+### HTML 
+
 [Mozilla HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics) <br>
 [Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics) <br>
 [Mozilla HTML Docs](https://developer.mozilla.org/en-US/docs/Web/HTML) <br>
