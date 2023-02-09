@@ -8,12 +8,12 @@
            text-align: center;“>
   Table of Contents</h3> 
   
-  _Levels_ |  -
+  _Levels_ |  #
 ------------ | -------------
-[Intro to Javascript](https://github.com/TraceDugar/reading-notes/blob/main/102/toc.md) | -
-[Foundations of Javascript](https://github.com/TraceDugar/reading-notes/blob/main/201/Toc.md) | -
-[Intermediate Javascript](https://github.com/TraceDugar/reading-notes/blob/main/301/toc.md) | -
-[Advanced Javascript](https://github.com/TraceDugar/reading-notes/blob/main/401/toc.md) | -
+[Intro to Javascript](https://github.com/TraceDugar/reading-notes/blob/main/102/toc.md) | 1
+[Foundations of Javascript](https://github.com/TraceDugar/reading-notes/blob/main/201/Toc.md) | 2
+[Intermediate Javascript](https://github.com/TraceDugar/reading-notes/blob/main/301/toc.md) | 3
+[Advanced Javascript](https://github.com/TraceDugar/reading-notes/blob/main/401/toc.md) | 4
 
 
 Link to [My Github](https://github.com/TraceDugar) 
