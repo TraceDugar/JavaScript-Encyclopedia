@@ -30,3 +30,6 @@ Argument - using rule
 [Operators](https://www.w3schools.com/js/js_operators.asp) <br>
 [Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators) <br>
 [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions) <br>
+
+#### Table Of Contents
+[Back to The Intro Level's Table of Contents](https://github.com/TraceDugar/reading-notes/blob/main/102/toc.md)
