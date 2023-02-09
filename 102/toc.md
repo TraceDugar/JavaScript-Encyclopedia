@@ -10,11 +10,11 @@
   
   _Intro to Software Development_ 
 ------------ 
-[Learning Markdown](https://github.com/TraceDugar/reading-notes/blob/main/102/class1.md) 
-[The Coder's Computer](https://github.com/TraceDugar/reading-notes/blob/main/102/class2.md) 
-[Revisions and the Cloud / Git Commands](https://github.com/TraceDugar/reading-notes/blob/main/102/class3.md) 
-[Structure Web Pages with HTML](https://github.com/TraceDugar/reading-notes/blob/main/102/class4.md) 
-[Design Web Pages with CSS](https://github.com/TraceDugar/reading-notes/blob/main/102/class5.md)
-[Dynamic web pages with Javascript](https://github.com/TraceDugar/reading-notes/blob/main/102/class6.md) 
-[Programming with Javascript](https://github.com/TraceDugar/reading-notes/blob/main/102/class7.md) 
-[Operators and Loops](https://github.com/TraceDugar/reading-notes/blob/main/102/class8.md)
+[Learning Markdown](https://github.com/TraceDugar/reading-notes/blob/main/102/class1.md) |
+[The Coder's Computer](https://github.com/TraceDugar/reading-notes/blob/main/102/class2.md) | 
+[Revisions and the Cloud / Git Commands](https://github.com/TraceDugar/reading-notes/blob/main/102/class3.md) |
+[Structure Web Pages with HTML](https://github.com/TraceDugar/reading-notes/blob/main/102/class4.md) |
+[Design Web Pages with CSS](https://github.com/TraceDugar/reading-notes/blob/main/102/class5.md) |
+[Dynamic web pages with Javascript](https://github.com/TraceDugar/reading-notes/blob/main/102/class6.md) |
+[Programming with Javascript](https://github.com/TraceDugar/reading-notes/blob/main/102/class7.md) |
+[Operators and Loops](https://github.com/TraceDugar/reading-notes/blob/main/102/class8.md) |
