@@ -13,4 +13,7 @@
 
 ### More Readings
 
-[Github Markdown Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[Github Markdown Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) <br>
+
+
+[Back to The Intro Level's Table of Contents](https://github.com/TraceDugar/reading-notes/blob/main/102/toc.md)
