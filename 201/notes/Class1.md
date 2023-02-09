@@ -6,7 +6,6 @@
 [How The Web Works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works) <br>
 [Website Design and Process](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics) <br>
 [How to begin to design a website](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Thinking_before_coding) <br>
-
 [Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics) <br>
 
 ## Javascript
