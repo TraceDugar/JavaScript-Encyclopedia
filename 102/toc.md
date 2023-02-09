@@ -8,7 +8,7 @@
            text-align: center;“>
   Table of Contents</h3> 
   
-  _Intro to Software Development_ |  _Next Levels_
+  _Intro to Software Development_ | -
 ------------ | -------------
 [Learning Markdown](https://github.com/TraceDugar/reading-notes/blob/main/102/class1.md) | -
 [The Coder's Computer](https://github.com/TraceDugar/reading-notes/blob/main/102/class2.md) | -
