@@ -16,3 +16,6 @@
 [Dynamic web pages with Javascript](https://github.com/TraceDugar/reading-notes/blob/main/102/class6.md) | -
 [Programming with Javascript](https://github.com/TraceDugar/reading-notes/blob/main/102/class7.md) | -
 [Operators and Loops](https://github.com/TraceDugar/reading-notes/blob/main/102/class8.md) | -
+
+
+[Return to Main Table of Contents](https://github.com/TraceDugar/reading-notes)
