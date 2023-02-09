@@ -49,3 +49,7 @@ else only curly brackets {}
 
 ## Videos
 [How Computers Work - PLaylist](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
+
+
+#### Table Of Contents
+[Back to The Intro Level's Table of Contents](https://github.com/TraceDugar/reading-notes/blob/main/102/toc.md)
