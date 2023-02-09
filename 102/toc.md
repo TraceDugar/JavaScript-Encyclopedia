@@ -1,6 +1,4 @@
-# Javascript Notes
-
-## This is a collection of notes and sources that I have accumulated while learning the MERN Stack from the [Code Fellows Bootcamp](https://www.codefellows.org/). ##
+# Intro to Javascript
 
 <h3 style=“display:block;
            margin-left: auto;
