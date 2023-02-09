@@ -8,16 +8,12 @@
            text-align: center;“>
   Table of Contents</h3> 
   
-  _Intro to Software Development_ |  _Next Levels_
+  _Levels_ |  
 ------------ | -------------
-[Learning Markdown](https://github.com/TraceDugar/reading-notes/blob/main/102/class1.md) | [Foundations of Javascript](https://github.com/TraceDugar/reading-notes/blob/main/201/Toc.md)
-[The Coder's Computer](https://github.com/TraceDugar/reading-notes/blob/main/102/class2.md) | [Intermediate Javascript](https://github.com/TraceDugar/reading-notes/blob/main/301/toc.md)
-[Revisions and the Cloud / Git Commands](https://github.com/TraceDugar/reading-notes/blob/main/102/class3.md) | [Advanced Javascript](https://github.com/TraceDugar/reading-notes/blob/main/401/toc.md)
-[Structure Web Pages with HTML](https://github.com/TraceDugar/reading-notes/blob/main/102/class4.md) | -
-[Design Web Pages with CSS](https://github.com/TraceDugar/reading-notes/blob/main/102/class5.md) | -
-[Dynamic web pages with Javascript](https://github.com/TraceDugar/reading-notes/blob/main/102/class6.md) | -
-[Programming with Javascript](https://github.com/TraceDugar/reading-notes/blob/main/102/class7.md) | -
-[Operators and Loops](https://github.com/TraceDugar/reading-notes/blob/main/102/class8.md) | -
+[Intro to Javascript](https://github.com/TraceDugar/reading-notes/blob/main/102/toc.md) | -
+[Foundations of Javascript](https://github.com/TraceDugar/reading-notes/blob/main/201/Toc.md) | -
+[Intermediate Javascript](https://github.com/TraceDugar/reading-notes/blob/main/301/toc.md) | -
+[Advanced Javascript](https://github.com/TraceDugar/reading-notes/blob/main/401/toc.md) | -
 
 
 Link to [My Github](https://github.com/TraceDugar) 
