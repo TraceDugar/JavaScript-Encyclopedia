@@ -5,7 +5,7 @@
 <h3 style=“display:block;
            margin-left: auto;
            margin-right:auto;
-           text-align: center;“>
+           text-align: center;>
   Table of Contents</h3> 
   
   _Levels_ |  #
