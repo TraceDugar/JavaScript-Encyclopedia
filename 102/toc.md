@@ -1,4 +1,4 @@
-# Intro to Javascript
+# Intro to Javascript based Software Developement
 
 <h3 style=“display:block;
            margin-left: auto;
