@@ -19,3 +19,7 @@
 [Getting Started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started) <br>
 [HTML Document Structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure) <br>
 [Metadata in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML) <br>
+
+
+#### Return to Foundations Level Table of Contents
+[Table of Contents](https://github.com/TraceDugar/reading-notes/blob/main/201/Toc.md)
