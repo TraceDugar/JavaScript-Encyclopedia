@@ -9,7 +9,7 @@
 [HTML Lists, Control Flow with JS, and the CSS Box Model](https://github.com/TraceDugar/reading-notes/blob/main/201/notes/Class3.md) | [Chart.js, Canvas](https://github.com/TraceDugar/reading-notes/blob/main/201/notes/class12.md)
 [HTML Links, JS Functions, and Intro to CSS Layout](https://github.com/TraceDugar/reading-notes/blob/main/201/notes/Class4.md) | [Local Storage](https://github.com/TraceDugar/reading-notes/blob/main/201/notes/class13.md)
 [Images, Color, Text](https://github.com/TraceDugar/reading-notes/blob/main/201/notes/class5.md) | [More CSS](https://github.com/TraceDugar/reading-notes/blob/main/201/notes/Class14.md)
-[Problem Domain, Objects, and the DOM](https://github.com/TraceDugar/reading-notes/blob/main/201/notes/class6.md) | -
+[Problem Domain, Objects, and the DOM](https://github.com/TraceDugar/reading-notes/blob/main/201/notes/class6.md) | []()
 [Object-Oriented Programming, HTML Tables](https://github.com/TraceDugar/reading-notes/blob/main/201/notes/class7.md) | []()
 [CSS Layout](https://github.com/TraceDugar/reading-notes/blob/main/201/notes/class8.md) | []()
 [Forms and JS Events](https://github.com/TraceDugar/reading-notes/blob/main/201/notes/class9.md) |[]()
