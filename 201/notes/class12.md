@@ -11,3 +11,8 @@
 [Drawing Shapes With Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes) <br>
 [Applying Style and Colors - Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors) <br>
 [Drawing Text - Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text) <br>
+
+
+
+#### Return to Foundations Level Table of Contents
+[Table of Contents](https://github.com/TraceDugar/reading-notes/blob/main/201/Toc.md)
