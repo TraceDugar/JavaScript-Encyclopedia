@@ -1,22 +1,18 @@
-## Class 14 reading notes
+# More CSS
 
-**CSS Tranformations**
-1. The transform property comes in two different settings, two-dimensional and three-dimensional. Each of these come with their own individual properties and values.
+## CSS
 
-2. Making an arch around a main image with links.
+[CSS Transforms](http://learn.shayhowe.com/advanced-html-css/css-transforms/) <br>
+[8 simple CSS3 transitions that will wow your users](http://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users) <br>
 
-//Source: https://learn.shayhowe.com/advanced-html-css/css-transforms/
+## CSS Animations
 
-**CSS Transitions & Animations**
-1. With CSS3 transitions you have the potential to alter the appearance and behavior of an element whenever a state change occurs, such as when it is hovered over, focused on, active, or targeted.
+[CSS Transitions & Animations](http://learn.shayhowe.com/advanced-html-css/transitions-animations/) <br>
+[Pure CSS Bounce Animation](http://codepen.io/dp_lewis/pen/gCfBv) <br>
+[6 Buttons animated](http://codepen.io/retyui/pen/ByoaXV) <br>
+[CSS3 Animations: Keyframes](http://codepen.io/akshaychauhan/pen/oAfae) <br>
 
-Animations within CSS3 allow the appearance and behavior of an element to be altered in multiple keyframes. Transitions provide a change from one state to another, while animations can set multiple points of transition upon different keyframes.
+## Other
 
-2. Transitions do a great job of building out visual interactions from one state to another, and are perfect for these kinds of single state changes. However, when more control is required, transitions need to have multiple states. In return, this is where animations pick up where transitions leave off.
+[404 animation](http://codepen.io/kieranfivestars/pen/MYdQxX) <br>
 
-//Source: https://learn.shayhowe.com/advanced-html-css/transitions-animations/
-
-**CSS3 Transitions**
-1. Making websites more dynamic and fun to visit, emphasizing points.  Making things more attention grabbing.
-
-2.This will allow me to make my future employers websites meet their expectations as well as occasaionally exceed them.
