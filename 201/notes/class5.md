@@ -12,3 +12,7 @@
 [Learn CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS) <br>
 [Using Color in CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Applying_color) <br>
 [Text Elements](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals) <br>
+
+
+#### Return to Foundations Level Table of Contents
+[Table of Contents](https://github.com/TraceDugar/reading-notes/blob/main/201/Toc.md)
