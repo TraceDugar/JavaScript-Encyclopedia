@@ -2,7 +2,7 @@
 
 ### Table of Contents
   
-  **Code 201**, _Foundations of Software Development_ | **Code 201**, _Foundations of Software Development_
+  _Foundations of Software Development_ | _Foundations of Software Development_
 ------------ | -------------
 [Getting Started](https://github.com/TraceDugar/reading-notes/blob/main/201/notes/Class1.md) | [Debugging](https://github.com/TraceDugar/reading-notes/blob/main/201/notes/class10.md)
 [Basics of HTML / CSS / JS](https://github.com/TraceDugar/reading-notes/blob/main/201/notes/Class2.md) |[Audio, Video, Images](https://github.com/TraceDugar/reading-notes/blob/main/201/notes/class11.md) 
