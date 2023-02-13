@@ -1,5 +1,7 @@
 # Intermediate Level of Javascript Based Software Development
 
+### This level begins coverage of MongoDB, Eexpress, React, Node.js.
+
 ### Table of Contents
 
    _Intermediate Software Development_ |   _Intermediate Software Development_
