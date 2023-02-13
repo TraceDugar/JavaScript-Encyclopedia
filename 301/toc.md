@@ -1,9 +1,7 @@
-<h2 style=“display:block;
-           margin-left: auto;
-           margin-right:auto;
-           text-align: center;“>
-  301 Reading Notes</h2> 
-  
+# Intermediate Level of Javascript Based Software Development
+
+### Table of Contents
+
    _Intermediate Software Development_ |   _Intermediate Software Development_
 ------------ | -------------
 [Introduction to React and Components](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class1.md) | [In memory storage](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class10.md)
