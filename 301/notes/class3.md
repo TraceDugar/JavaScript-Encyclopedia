@@ -1,4 +1,4 @@
-## Class 3 Reading Notes
+# Passing Functions as Props
 
 ## React
 
