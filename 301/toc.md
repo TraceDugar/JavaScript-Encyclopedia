@@ -4,17 +4,17 @@
            text-align: center;“>
   301 Reading Notes</h2> 
   
-  **Code 301**, _Intermediate Software Development_ |  **Code 301**, _Intermediate Software Development_
+   _Intermediate Software Development_ |   _Intermediate Software Development_
 ------------ | -------------
-[Class 01](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class1.md) | [Class 10](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class10.md)
-[Class 02](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/Class2.md) | [Class 11](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class11.md) 
-[Class 03](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class3.md) | [Class 12](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class12.md)
-[Class 04](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class4.md) | [Class 13](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class13.md)
-[Class 05](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/Class5.md) | [Class 14](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/Class14.md)
-[Class 06](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class6.md) | []()
-[Class 07](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class7.md) | []()
-[Class 08](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class8.md) | []()
-[Class 09](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/Class9.md) | []()
+[Introduction to React and Components](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class1.md) | [In memory storage](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class10.md)
+[State and Props](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/Class2.md) | [MongoDB and Mongoose](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class11.md) 
+[Passing Functions as Props](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class3.md) | [CRUD](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class12.md)
+[React and Forms](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class4.md) | [More CRUD](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class13.md)
+[Putting it all together](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/Class5.md) | [Authentication](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/Class14.md)
+[NODE.JS](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class6.md) | []()
+[REST](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class7.md) | []()
+[APIs](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class8.md) | []()
+[Functional Programming](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/Class9.md) | []()
 
 
 
