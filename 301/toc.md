@@ -11,7 +11,7 @@
 [Passing Functions as Props](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class3.md) | [CRUD](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class12.md)
 [React and Forms](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class4.md) | [More CRUD](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class13.md)
 [Putting it all together](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/Class5.md) | [Authentication](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/Class14.md)
-[NODE.JS](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class6.md) | []()
+[NODE.JS / API](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class6.md) | []()
 [REST](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class7.md) | []()
 [APIs](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class8.md) | []()
 [Functional Programming](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/Class9.md) | []()
