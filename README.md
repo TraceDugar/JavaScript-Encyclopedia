@@ -11,5 +11,8 @@
 [Intermediate Javascript Based Software Development](https://github.com/TraceDugar/reading-notes/blob/main/301/toc.md) | 3 MERN
 [Advanced Javascript Based Software Development](https://github.com/TraceDugar/reading-notes/blob/main/401/toc.md) | 4 MERN
 
+#### Bonus
+[Various Cheat Sheets](https://codehouse.vercel.app/app)<br>
+[Git CheatSheet](https://training.github.com/downloads/github-git-cheat-sheet/)<br>
 
 Link to [My Github](https://github.com/TraceDugar) 
