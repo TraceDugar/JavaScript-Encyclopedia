@@ -8,7 +8,7 @@
 ------------ | -------------
 [Introduction to React and Components](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class1.md) | [In memory storage](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class10.md)
 [State and Props](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/Class2.md) | [MongoDB and Mongoose / React Router](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class11.md) 
-[Passing Functions as Props](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class3.md) | [CRUD](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class12.md)
+[Passing Functions as Props](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class3.md) | [CRUD / REST](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class12.md)
 [React and Forms](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class4.md) | [More CRUD](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class13.md)
 [Putting it all together](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/Class5.md) | [Authentication](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/Class14.md)
 [NODE.JS / API](https://github.com/TraceDugar/reading-notes/blob/main/301/notes/class6.md) | []()
