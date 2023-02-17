@@ -1,3 +1,5 @@
+# Advanced Software Development in Javascript
+
 <h2 style=“display:block;
            margin-left: auto;
            margin-right:auto;
@@ -6,13 +8,13 @@
   
  **Code 401** - *BackEnd Notes* |  **Code 401** - *FrontEnd Notes* |  **Code 401** - *Mobile Notes*
 ------------ | ------------- | ------------- 
-[Class 01](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/Class1.md) | [Class 26](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class26.md) | [Class41](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class41.md)
-[Class 02](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/Class2.md) | [Class 27](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class27.md) 
-[Class 03](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class3.md) | [Class 28](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class28.md)
-[Class 04](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class4.md) | [Class 29](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class29.md)
-[Class 06](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class6.md) | [Class 31](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class31.md)
-[Class 07](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class07.md) | [Class 32](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class32.md)
-[Class 08](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class08.md) | [Class 33](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class33.md)
+[Node Ecosystem](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/Class1.md) | [Class 26](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class26.md) | [Class41](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class41.md)
+[Express, NPM, TDD, CI/CD](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/Class2.md) | [Class 27](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class27.md) 
+[Express REST API](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class3.md) | [Class 28](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class28.md)
+[Data Modeling](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class4.md) | [Class 29](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class29.md)
+[Authentication](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class6.md) | [Class 31](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class31.md)
+[Bearer Authorization](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class07.md) | [Class 32](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class32.md)
+[ Access Control (ACL)](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class08.md) | [Class 33](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class33.md)
 [Class 11](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class11.md) | [Class 34](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class34.md)
 [Class 12](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class12.md) | [Class 36](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class36.md)
 [Class 13](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class13.md) | [Class 37](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class37.md)
