@@ -23,7 +23,7 @@
 [Stacks and Queues](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-10/resources/stacks_and_queues.html)<br>
 [Trees](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/Trees.html)<br>
 [Linked List]()<br>
-[Hash Tables]()<br>
+[Hash Tables](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/hashtables.md)<br>
 
 #### Bonus
 
