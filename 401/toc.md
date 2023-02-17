@@ -1,10 +1,4 @@
 # Advanced Software Development in Javascript
-
-<h2 style=“display:block;
-           margin-left: auto;
-           margin-right:auto;
-           text-align: center;“>
-  401 Reading Notes</h2> 
   
   *BackEnd Notes*  |  *FrontEnd Notes*  |  *Mobile Notes*  
 ------------ | ------------- | ------------- 
