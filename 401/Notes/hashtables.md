@@ -11,5 +11,5 @@
 [What is a hash table?](https://www.youtube.com/watch?v=MfhjkfocRR0)<br>
 
 
-#### Return To Table of Contents
+#### Return To Advanced Table of Contents
 [Table of Contents](https://github.com/TraceDugar/reading-notes/blob/main/401/toc.md)<br>
