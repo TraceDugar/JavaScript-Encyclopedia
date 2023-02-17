@@ -8,7 +8,7 @@
 [Data Modeling](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class4.md) | [Advanced State with Reducers](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class29.md)
 [Authentication](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class6.md) | [Context API](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class31.md)
 [Bearer Authorization](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class07.md) | [Context API - Behaviors](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class32.md)
-[Access Control (ACL)](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class08.md) | [<Login /> and <Auth />](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class33.md)
+[Access Control (ACL)](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class08.md) | [ Login and Auth](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class33.md)
 [Event Driven Applications](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class11.md) | [API Integration](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class34.md)
 [Socket.io](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class12.md) | [Application State with Redux](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class36.md)
 [Message Queues](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class13.md) | [Redux - Combined Reducers](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class37.md)
