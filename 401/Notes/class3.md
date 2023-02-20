@@ -6,3 +6,6 @@
 
 ## Review ES6 Routing
 [ES6 Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)<br>
+
+## Return to Table of Contents
+https://github.com/TraceDugar/reading-notes/blob/main/401/toc.md
