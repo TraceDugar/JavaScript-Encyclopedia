@@ -1,13 +1,12 @@
-# Authorization/Authentication
+# Event Driven Applications
 
-## JSON Web Token Reading 
+## Event Driven Programming
 
-[Intro to JWT](https://jwt.io/introduction/)<br>
-[Are JWTs Secure?](https://stackoverflow.com/questions/27301557/if-you-can-decode-jwt-how-are-they-secure)<br>
-[Npm Jsonwebtoken Docs](https://www.npmjs.com/package/jsonwebtoken)<br>
+[Event Driven Programming](https://www.digitalocean.com/community/tutorials/nodejs-event-driven-programming)<br>
 
-## Video
-[JWTs Explained](https://www.youtube.com/watch?v=926mknSW9Lo)<br>
+## NODE
+
+[Node docs: events](https://nodejs.org/api/events.html)<br>
 
 #### Return To Advanced Table of Contents
 [Table of Contents](https://github.com/TraceDugar/reading-notes/blob/main/401/toc.md)<br>
