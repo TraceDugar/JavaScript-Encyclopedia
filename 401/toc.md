@@ -12,7 +12,7 @@
 [Event Driven Applications](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class11.md) | [API Integration](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class34.md)
 [Socket.io](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class12.md) | [Application State with Redux](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class36.md)
 [Message Queues](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class13.md) | [Redux - Combined Reducers](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class37.md)
-[AWS: Cloud Servers](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class16.md) | [Redux - Asynchronous Actions](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class38.md) 
+[AWS: Cloud Servers, Elastic Beanstalk](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class16.md) | [Redux - Asynchronous Actions](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class38.md) 
 [AWS: S3 and Lambda](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class17.md) | [Redux - Additional Topics](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class39.md)
 [AWS: API, Dynamo and Lambda](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class18.md) | []()
 [AWS: Events](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class19.md) | []()
