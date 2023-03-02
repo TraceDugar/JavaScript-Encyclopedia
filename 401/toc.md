@@ -4,7 +4,7 @@
 ------------ | ------------- | ------------- 
 [Node Ecosystem](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/Class1.md) | [Component Based UI](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class26.md) | [React Native](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class41.md)
 [Express, NPM, TDD, CI/CD](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/Class2.md) | [useState() Hook](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class27.md) 
-[Express REST API](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class3.md) | [Component Lifecycle / useEffect Hook](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class28.md)
+[Express REST API](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class3.md) | [useEffect Hook](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class28.md)
 [Data Modeling](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class4.md) | [Advanced State with Reducers](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class29.md)
 [Authentication](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class6.md) | [Context API](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class31.md)
 [Bearer Authorization](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class07.md) | [Context API - Behaviors](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class32.md)
