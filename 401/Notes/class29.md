@@ -1,4 +1,4 @@
-# AAdvanced State with Reducers
+# Advanced State with Reducers
 
 ## AWS EC2
 
