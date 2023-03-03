@@ -1,6 +1,6 @@
 # Context API
 
-## Virtual Machines
+## Context
 
 [Context API](https://reactjs.org/docs/context.html)<br>
 [Awesome React Context links](https://github.com/diegohaz/awesome-react-context)<br>
