@@ -1,6 +1,6 @@
 # API Integration
 
-[API Server Build](https://codefellows.github.io/code-401-javascript-guide/curriculum/apps-and-libraries/api-server/)<br.
+[API Server Build](https://codefellows.github.io/code-401-javascript-guide/curriculum/apps-and-libraries/api-server/)<br>
 [Auth Server Build](https://codefellows.github.io/code-401-javascript-guide/curriculum/apps-and-libraries/auth-server/)<br>
 
 #### Return To Advanced Table of Contents
