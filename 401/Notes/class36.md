@@ -1,18 +1,14 @@
-# Class 36 Reading Notes
+# Application State with Redux
 
-(https://egghead.io/courses/getting-started-with-redux)
+## Redux
 
-What is the first principle of Redux?
-Whether or not your app is simple or complex.
-<br>
+[Redux Docs](https://redux.js.org/)<br>
+[Worlds Easiest Guide to Redux](https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6)<br>
+[Dan Abramov Redux Tutorials](https://egghead.io/courses/getting-started-with-redux)<br>
 
-what is a store and what do we use our reducers for within that store?
-The store binds together the three principles of redux, it holds the current application state object its lets you dispatch actions, specify the reducer that tells how state is updated with actions.
-<br>
+## Testing
 
-Name three Redux store methods given to us by createStore and describe their use.
-getState() , dispatch(), and subscribe().
-<br>
+[Testing Reducers](https://medium.com/@netxm/testing-redux-reducers-with-jest-6653abbfe3e1)<br>
 
-Explain to a non-technical recruiter what combineReducers() does and why it is useful.
-It helps us not write repititive code and combines the actions of the reducers within our app.
+#### Return To Advanced Table of Contents
+[Table of Contents](https://github.com/TraceDugar/reading-notes/blob/main/401/toc.md)<br>
