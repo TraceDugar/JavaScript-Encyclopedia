@@ -36,6 +36,6 @@
 [SQL EXERCISES](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/SQL.md) <br>
 [Ethics in Tech](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class42.md) <br>
 <br>
-
+[Open Source List]()<br>
 
 [Return to Main Table of Contents](https://github.com/TraceDugar/reading-notes)
