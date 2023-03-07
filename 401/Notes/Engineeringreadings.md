@@ -5,3 +5,6 @@
 [Solving Problems](https://simpleprogrammer.com/solving-problems-breaking-it-down/)<br>
 [The 5 Whys](https://www.mindtools.com/pages/article/newTMC_5W.htm)<br>
 [The Super Mario Effect](https://www.youtube.com/watch?v=9vJRopau0g0)<br>
+
+#### Return To Advanced Table of Contents
+[Table of Contents](https://github.com/TraceDugar/reading-notes/blob/main/401/toc.md)<br>
