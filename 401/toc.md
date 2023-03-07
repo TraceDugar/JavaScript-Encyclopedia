@@ -32,7 +32,6 @@
 
 [Gowth Mindset](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/Growth_Mindset.md) <br>
 [Engineering Readings](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/Engineeringreadings.md) <br>
-[Data Structures & Algorithms](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/DataStructures_Algorithms.md) <br>
 [Ethics in Tech](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/class42.md) <br>
 <br>
 [Open Source List](https://github.com/TraceDugar/reading-notes/blob/main/401/Notes/OpenSource.md)<br>
